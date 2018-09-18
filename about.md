@@ -3,13 +3,13 @@ layout: page
 title: About Me
 permalink: /about/
 ---
+### Quick Facts
+* I am a student of computer engineering, heavily focusing on cybersecurity.
+* My areas of interest primarily include network pentesting, physical security assessment, and social engineering.
+* Vim > all other editors.
+* Hobbies outside security include collecting hot sauce, cooking, and fishing.
 
-Jack Potter is a student of computer engineering with an emphasis in cybersecurity. He also enjoys studying physical security, social engineering, and referring to himself in the third person. 
-
-### More Information
-
-As you can probably tell, this website is pretty incomplete. It's a work in progress, what can I say. If you're reading this, you're probably either a web spider or I am way behind on pushing my updated pages to github. 
 
 ### Contact me
 
-[jack.potter@protonmail.com](mailto:jack.potter@protonmail.com)
+[jack@hackpotter.com](mailto:jack@hackpotter.com)
