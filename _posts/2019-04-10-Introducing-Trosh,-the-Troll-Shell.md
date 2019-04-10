@@ -7,7 +7,7 @@ As a teaching assistant for a handful of cybersecurity classes at Iowa State,
 I've had the opportunity to create content that is used in labs and projects.
 One of the best parts of the job is devising malicious machines and nefarious
 networks that the students have to break into or secure, and I decided to do
-something new for the final project this semester: give them a box to secure
+something new for part of the final project this semester: give them a box to secure
 where the shell they're interacting with is constantly harassing them. I love my
 job.
 
