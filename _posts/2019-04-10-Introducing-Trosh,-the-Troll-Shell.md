@@ -98,9 +98,10 @@ anything in color.
 Finally, we come upon my favorite feature. If you know me, you know that I'm
 *that guy* who gets way too into evangelizing Vim. Naturally, it should come as
 no surprise to you that Vim works beautifully when called from my shell.
-![Vim!](/images/trosh/vim.gif)
 However, what if we try to use another editor that I don't like?
-![Nano (Nobody likes nano)](/images/trosh/nano.gif)
+
+![Nano (Nobody likes nano)](/images/trosh/nano.png)
+
 `Okay, look. I won't stop you from using nano, but you should try vim.`
 `People say it's intimidating, but it's actually quite simple.`
 `It's very streamlined and efficient, and the plugins are amazing.`
@@ -120,10 +121,8 @@ after deploying the shell to the machine for class. It turns out that I forgot
 to do any kind of signal handling, so when it catches a SIGINT (Ctrl-C) meant to
 kill a running process, the whole thing just kind of dies. If it's being run as
 the login shell, the user is kicked back to the login screen, and if it's being
-run in a terminal emulator, the terminal window will instantly disappear. Enjoy
-this low-quality gif demonstrating as such (also enjoy my wallpaper picture of
-Diogenes).
-![SIGINT](/images/trosh/ping.gif)
+run in a terminal emulator, the terminal window will instantly disappear. That
+might be a little bit annoying to deal with.
 
 Well, that about wraps things up for Trosh as it stands today. I'll probably
 keep maintaining it and adding more and more malicious things for use in future
