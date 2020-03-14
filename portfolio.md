@@ -99,6 +99,49 @@ functionality that I'm looking for rather that writing the necessary functions
 myself, as implementing existing barcode scanning libraries made the project
 significantly more straightforward to complete. 
 
+### Internship Experience
+
+#### John Deere
+I worked as an intern across two security teams at John Deere, initially as a
+summer intern and then as a part-time student employee during my junior year. I
+worked on both the Cloud Security team as well as an Embedded Security team,
+across which I was exposed to many aspects of security engineering. On the cloud
+security team, I primarily worked to secure AWS resources, developing scrips to
+alert the team in real time if any non compliant resources were found. On the
+embedded security team, I worked to secure the low level embedded devices that
+are vital to the function of John Deere devices. This internship allowed me to
+gain skills in AWS management, static code analysis, binary fuzzing, and agile
+development practices. I received positive evaluations during my time with the
+company and had the opportunity to present on my work multiple times to various
+leaders in the organization.
+
+#### RSM
+I worked as an intern with RSM over the span of one summer, during which I was
+able to work on many interesting penetration tests of a variety of clients. I
+performed external and internal penetration tests, phone and email based social
+engineering engagements, and multiple physical security assessments that
+required me to break into offices of corporations and financial institutions. I
+learned a lot about utilizing security skills and tools in the field, how to
+effectively discover vulnerabilities in clients, and how best to present
+security flaws and discoveries to the clients, which I did a number of times. I 
+received positive evaluations from several associates at the firm and will be 
+working there full time starting in July 2020. 
+
+### Resume
+[Click here to view or download a copy of my resume.](/resume.pdf)
+
+### Cumulative Reflection
+[Click here to view or download a copy of my 494 cumulative course
+reflection.](/CumulativeReflection.pdf)
+
+### General Education Reflection
+[Click here to view or download a copy of my 494 general education
+reflection.](/GeneralEducation.pdf)
+
+### Ethics Essay
+[Click here to view or download a copy of my term paper for Computer Engineering
+234x: Legal and Ethical Issues in Cyber Security](/TermPaper-Potter.pdf)
+
 ### Contact me
 
 [jack@hackpotter.com](mailto:jack@hackpotter.com)
